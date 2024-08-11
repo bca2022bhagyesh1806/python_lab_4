@@ -1,6 +1,6 @@
 emp = {
     'id': 1,
-    'name': 'Bhagyesh Padaliya',
+    'name': 'Bhagyesh Kavthiya',
     'designation': 'Manager',
     'salary': 60000
 }
